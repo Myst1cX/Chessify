@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" alt="Chessify" width="140">
+  <img src="ChessifyIcon.png" alt="Chessify" width="140">
 </p>
 
 ## CHESSIFY
